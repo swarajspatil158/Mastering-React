@@ -92,3 +92,5 @@ person.full_name()
 const teacher = new Teacher('Hanuman')
 
 console.log(teacher.name)
+
+console.log("ES6 revisited")
